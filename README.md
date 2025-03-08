@@ -4,7 +4,7 @@ Instructions for setting up and running the application locally.
 
 # 1. Clone the repository
 git clone https://github.com/your-username/your-repo.git
-cd your-repo
+cd markdown-editor
 
 # 2. Install dependencies
 cd frontend
